@@ -4,7 +4,7 @@ def nyc_pigeon_organizer(data)
     value.each do | attributes, all_names |
       all_names.each do | name |
     end
-    pigeon_list
+    pigeon_list[name][]
         
         
 end
