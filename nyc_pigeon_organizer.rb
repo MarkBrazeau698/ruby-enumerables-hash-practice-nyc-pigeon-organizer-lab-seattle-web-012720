@@ -12,5 +12,6 @@ def nyc_pigeon_organizer(data)
     pigeon_list[name][color_gender_lives].push(attributes.to_s)
     end
   end
+end
   pigeon_list
 end
