@@ -5,8 +5,8 @@ def nyc_pigeon_organizer(data)
       all_names.each do | name |
         if pigeon_list[name] == nil
           pigeon_list[name] = {}
-          
-    end
+        end
+        if pigeon_list[]
     pigeon_list[name][color_gender_lives].push(attributes.to_s)
     end
     pigeon_list
