@@ -4,7 +4,7 @@ def nyc_pigeon_organizer(data)
     value.each do | attributes, all_names |
       all_names.each do | name |
     end
-    pigeon_list[name][color_gender_lives].push
+    pigeon_list[name][color_gender_lives].push(attributes.to_s)
         
         
 end
